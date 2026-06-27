@@ -9,37 +9,37 @@ The player has a limited number of incorrect guesses to find the word before the
 
 ***Features***
 
-**Random word selection from a predefined list
+=>Random word selection from a predefined list
 
-**User-friendly console interface
+=>User-friendly console interface
 
-**Displays guessed letters and remaining attempts
+=>Displays guessed letters and remaining attempts
 
-**Win and lose conditions
+=>Win and lose conditions
 
-**Beginner-friendly Python project
+=>Beginner-friendly Python project
 
 ***Technologies Used***
 
-**Python
+1.Python
 
-**Random Module
+2.Random Module
 
-**Loops
+3.Loops
 
-**Conditional Statements
+4.Conditional Statements
 
-**Lists and Strings
+5.Lists and Strings
 
 ***How to Run***
 
-1.Open the terminal.
+->Open the terminal.
 
-2.Navigate to the project folder.
+->Navigate to the project folder.
 
-3.Run the following command:
+->Run the following command:
 
-python hangman.py
+=>python hangman.py
 
 
 ***Project Structure***
@@ -76,5 +76,5 @@ Enhancing analytical and decision-making skills
 
 Building confidence in developing beginner-level Python projects
 
-****Author****
+**#Author#**
 
