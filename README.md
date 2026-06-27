@@ -78,3 +78,14 @@ Building confidence in developing beginner-level Python projects
 
 **#Author#**
 
+
+***sample out put screenshot***
+
+<img width="718" height="1001" alt="ChatGPT Image Jun 27, 2026, 12_52_08 PM" src="https://github.com/user-attachments/assets/0fc7ff49-90c4-46e2-9c8e-623309b0fd55" />
+<img width="515" height="787" alt="image" src="https://github.com/user-attachments/assets/98db4ed4-7c76-4fcf-b60a-2ab9abe7a7e1" />
+
+<img width="441" height="601" alt="ChatGPT Image Jun 27, 2026, 12_54_21 PM" src="https://github.com/user-attachments/assets/c563e83d-c1f5-4939-8fee-5b1a281ab02c" />
+
+
+
+
